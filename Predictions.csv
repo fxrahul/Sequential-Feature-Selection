@@ -1,0 +1,13 @@
+,class_val,lymphatics,lym_nodes_dim,exclusion_of_no.,Predicted_value
+0,3,4,1,Positive,Positive
+1,2,2,1,Positive,Positive
+2,3,2,1,Negative,Positive
+3,3,3,1,Positive,Positive
+4,3,3,1,Negative,Positive
+5,2,4,1,Positive,Positive
+6,3,2,1,Positive,Positive
+7,2,3,1,Positive,Positive
+8,2,2,1,Negative,Positive
+9,3,4,1,Negative,Positive
+10,1,1,1,Positive,Positive
+11,4,3,3,Positive,Negative
